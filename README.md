@@ -6,6 +6,7 @@ Data wrangling is a core skill that everyone who works with data should be famil
 3.cleaning data.
 
 Gather
+
 Gathering data is the first step in data wrangling. Before gathering, we have no data, and after it, we do. my gathering efforts are divided into three steps:
 1.Getting data from an existing file: I have a flat file twitter_archive_enhanced.csv which is a comma separated value, that I pointed on it,then clicked and downloaded it, then I read it in a Pandas dataframe.
 2.Downloading a file from the internet: I have a link to a flat file on the internet, I downloaded it programmatically using the requests library.
